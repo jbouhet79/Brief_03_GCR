@@ -7,6 +7,9 @@
 
 body {
   font-family: Arial, sans-serif;
+  background: url(/img/image1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header {
