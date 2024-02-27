@@ -1,0 +1,1044 @@
+{
+  "216527": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+      "id": 87096,
+      "name": "Avatar - Saga",
+      "poster_path": "/uO2yU3QiGHvVp0L5e5IatTVRkYk.jpg",
+      "backdrop_path": "/gxnvX9kF7RRUQYvB52dMLPgeJkt.jpg"
+    },
+    "budget": 500000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Aventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantastique"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 216527,
+    "imdb_id": "tt3095356",
+    "original_language": "en",
+    "original_title": "Avatar 4",
+    "overview": "Le quatrième volet de la saga Avatar.",
+    "popularity": 49.63,
+    "poster_path": "/xGcd3ob2DWC3TmlVhnJg1RLyTGi.jpg",
+    "production_companies": [
+      {
+        "id": 574,
+        "logo_path": "/nLNW1TeFUYU0M5U0qmYUzOIwlB6.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2029-12-20",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Avatar 4",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "393209": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+      "id": 87096,
+      "name": "Avatar - Saga",
+      "poster_path": "/uO2yU3QiGHvVp0L5e5IatTVRkYk.jpg",
+      "backdrop_path": "/gxnvX9kF7RRUQYvB52dMLPgeJkt.jpg"
+    },
+    "budget": 600000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventure"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantastique"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 393209,
+    "imdb_id": "tt5637536",
+    "original_language": "en",
+    "original_title": "Avatar 5",
+    "overview": "Le cinquième volet de la saga Avatar.",
+    "popularity": 40.736,
+    "poster_path": "/vAvLQOyFoire5x8AmRNfvgkvrMZ.jpg",
+    "production_companies": [
+      {
+        "id": 574,
+        "logo_path": "/nLNW1TeFUYU0M5U0qmYUzOIwlB6.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2031-12-18",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Avatar 5",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "401563": {
+    "adult": false,
+    "backdrop_path": "/4TyGzPj6OpMXxoy68L0QauOiHVd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      }
+    ],
+    "homepage": "",
+    "id": 401563,
+    "imdb_id": "tt5174640",
+    "original_language": "en",
+    "original_title": "100 Years",
+    "overview": "100 ans est un film de science-fiction \"à venir\" écrit par John Malkovich et réalisé par Robert Rodriguez. Annoncé en 2015 avec le slogan \"The Movie You Will Never See\", il devrait sortir le 18 novembre 2115. En attendant sa sortie, le film est conservé dans un coffre-fort de haute technologie derrière une vitre pare-balles qui s'ouvrira automatiquement le 18 novembre 2115, le jour de la première du film. Un millier d'invités du monde entier, dont Malkovich et Rodriguez, ont reçu une paire de billets d'invitation en métal pour la première, qu'ils pourront transmettre à leurs descendants.",
+    "popularity": 3.16,
+    "poster_path": "/xx6Vps04pGpJ7dZ7UfUy4HpXgPI.jpg",
+    "production_companies": [
+      {
+        "id": 10807,
+        "logo_path": "/j0BcMaJKIiDDYHq9lriTcM0Npka.png",
+        "name": "Troublemaker Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 77952,
+        "logo_path": null,
+        "name": "Kouz Production",
+        "origin_country": ""
+      },
+      {
+        "id": 77953,
+        "logo_path": null,
+        "name": "Moonwalk Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2115-11-18",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "100 Years",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "420810": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventure"
+      },
+      {
+        "id": 10751,
+        "name": "Familial"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      },
+      {
+        "id": 14,
+        "name": "Fantastique"
+      }
+    ],
+    "homepage": "",
+    "id": 420810,
+    "imdb_id": "tt5626032",
+    "original_language": "en",
+    "original_title": "The Jungle Book 2",
+    "overview": "",
+    "popularity": 5.087,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-07-10",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "The Jungle Book 2",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "951687": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 951687,
+    "imdb_id": null,
+    "original_language": "hi",
+    "original_title": "Narayan Pustika 2 - Endless",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-12-30",
+    "revenue": 0,
+    "runtime": 201,
+    "spoken_languages": [],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Narayan Pustika 2 - Endless",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "980432": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 14,
+        "name": "Fantastique"
+      }
+    ],
+    "homepage": "",
+    "id": 980432,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Untitled Fire Lord Zuko Project",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": "/21b0i0Ozc2o9YNsVyEf4iyYNt5r.jpg",
+    "production_companies": [
+      {
+        "id": 149943,
+        "logo_path": "/1xacI0DXJAe5YWPP0dTJV48B9na.png",
+        "name": "Avatar Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2026-10-09",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Untitled Fire Lord Zuko Project",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1003598": {
+    "adult": false,
+    "backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      }
+    ],
+    "homepage": "",
+    "id": 1003598,
+    "imdb_id": "tt21361444",
+    "original_language": "en",
+    "original_title": "Avengers: Secret Wars",
+    "overview": "Adaptation de Secret Wars de Jim Shooter et un prochain film de la phase 6 du Marvel Cinematic Universe qui conclura la saga du multivers.",
+    "popularity": 26.495,
+    "poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 176762,
+        "logo_path": null,
+        "name": "Kevin Feige Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2027-05-06",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Avengers: Secret Wars",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1084244": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+      "id": 10194,
+      "name": "Toy Story - Saga",
+      "poster_path": "/eRs7ClNYvgbvBoZFQeeJqwFGSiY.jpg",
+      "backdrop_path": "/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 12,
+        "name": "Aventure"
+      },
+      {
+        "id": 10751,
+        "name": "Familial"
+      },
+      {
+        "id": 35,
+        "name": "Comédie"
+      }
+    ],
+    "homepage": "",
+    "id": 1084244,
+    "imdb_id": "",
+    "original_language": "en",
+    "original_title": "Toy Story 5",
+    "overview": "Prochain film de la franchise Toy Story.",
+    "popularity": 21.794,
+    "poster_path": "/rXRcqTBmnNdd2EZwtUQuhXhhfFC.jpg",
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-19",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Toy Story 5",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1127894": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+      "id": 225961,
+      "name": "Birdemic - Saga",
+      "poster_path": "/x3MZmE83eHBsLfNZZn68Ua2NAKB.jpg",
+      "backdrop_path": "/zr8q5nGsLf6yjL9yKPZhgYRYc63.jpg"
+    },
+    "budget": 25000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      }
+    ],
+    "homepage": "",
+    "id": 1127894,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Birdemic 5: Birdman",
+    "overview": "",
+    "popularity": 0.625,
+    "poster_path": "/pLNflwomktVRbsNC7OMSbAR30iP.jpg",
+    "production_companies": [
+      {
+        "id": 23390,
+        "logo_path": null,
+        "name": "Moviehead Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2027-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Birdemic 5: Birdman",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1163887": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1163887,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "Birdemic 6: Oracle Of Delphi",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/nEZPHrlrbUCwbgL63cnUpPOvJnJ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2029-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Birdemic 6: Oracle Of Delphi",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1165422": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1165422,
+    "imdb_id": null,
+    "original_language": "cs",
+    "original_title": "Princezna zakletá v čase 3",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-11-19",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Princezna zakletá v čase 3",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1189902": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      },
+      {
+        "id": 36,
+        "name": "Histoire"
+      }
+    ],
+    "homepage": "",
+    "id": 1189902,
+    "imdb_id": null,
+    "original_language": "es",
+    "original_title": "La Persistencia de la Paranoia",
+    "overview": "",
+    "popularity": 0.85,
+    "poster_path": "/9yZmt6uueju2nbfCQXb8A2WVq3O.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2030-05-16",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "La Persistencia de la Paranoia",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1211637": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 5000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 35,
+        "name": "Comédie"
+      }
+    ],
+    "homepage": "",
+    "id": 1211637,
+    "imdb_id": "tt30229270",
+    "original_language": "en",
+    "original_title": "Christmas Stalkings",
+    "overview": "",
+    "popularity": 1.4,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 163658,
+        "logo_path": "/aNLEXfSzkKK20qhPyPRBRjK1EUt.png",
+        "name": "Elytra Collective",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-12-11",
+    "revenue": 0,
+    "runtime": 10,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Christmas Stalkings",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1228670": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "id": 1228670,
+    "imdb_id": null,
+    "original_language": "en",
+    "original_title": "THE REWIND",
+    "overview": "",
+    "popularity": 0.665,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2027-05-15",
+    "revenue": 0,
+    "runtime": 135,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "THE REWIND",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1231322": {
+    "adult": false,
+    "backdrop_path": "/cCzMePim8EXRHExizmBhJC063Ju.jpg",
+    "belongs_to_collection": {
+      "id": 1073029,
+      "name": "流浪地球（系列）",
+      "poster_path": "/6qWFQkZfCmDmaAIQlXlBJWNga3k.jpg",
+      "backdrop_path": "/dDG37QLsERXFowAOfWYLwcsag4r.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Aventure"
+      }
+    ],
+    "homepage": "",
+    "id": 1231322,
+    "imdb_id": null,
+    "original_language": "zh",
+    "original_title": "流浪地球3",
+    "overview": "",
+    "popularity": 5.047,
+    "poster_path": "/6J47ApJVOmNrHJezrxnRaTDXBfx.jpg",
+    "production_companies": [
+      {
+        "id": 14714,
+        "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+        "name": "China Film Group Corporation",
+        "origin_country": "CN"
+      },
+      {
+        "id": 65442,
+        "logo_path": null,
+        "name": "Beijing Dengfeng International Culture",
+        "origin_country": ""
+      },
+      {
+        "id": 191194,
+        "logo_path": null,
+        "name": "Guo Fan Culture and Media",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2027-02-06",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "流浪地球3",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1233883": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 4100000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1233883,
+    "imdb_id": "tt29977916",
+    "original_language": "en",
+    "original_title": "Epitaph",
+    "overview": "",
+    "popularity": 0.65,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 217167,
+        "logo_path": null,
+        "name": "CreepTV Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-08-10",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Epitaph",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1234131": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventure"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "id": 1234131,
+    "imdb_id": null,
+    "original_language": "it",
+    "original_title": "Boys Don't Cry",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/s4ZLV1zMcMgfhMVUc0CsQNXrK1q.jpg",
+    "production_companies": [
+      {
+        "id": 210035,
+        "logo_path": "/aaSMOvRaU6QiGBSnhzMg72A5H8U.png",
+        "name": "Vestri Official Production",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2027-05-12",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Boys Don't Cry",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1236491": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1236491,
+    "imdb_id": null,
+    "original_language": "pl",
+    "original_title": "Projekcja ogólnego tonu",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-12-31",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Projekcja ogólnego tonu",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1242528": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1242528,
+    "imdb_id": null,
+    "original_language": "es",
+    "original_title": "Lima, la gris",
+    "overview": "",
+    "popularity": 0.668,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2027-07-22",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Lima, la gris",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "1247951": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      }
+    ],
+    "homepage": "",
+    "id": 1247951,
+    "imdb_id": "tt28818497",
+    "original_language": "en",
+    "original_title": "Best Bros",
+    "overview": "",
+    "popularity": 0.6,
+    "poster_path": "/bok4n5d2fZ1iG5c5JfuKJuQndA9.jpg",
+    "production_companies": [
+      {
+        "id": 221358,
+        "logo_path": null,
+        "name": "Good-Reel Moving Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2027-07-28",
+    "revenue": 0,
+    "runtime": 77,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Best Bros",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  }
+}
