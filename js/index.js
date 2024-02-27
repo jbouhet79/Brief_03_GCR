@@ -20,10 +20,17 @@ async function getListFilms() {
 
 function createFilmInDOM(movie) {
   console.log(movie)
-  const dest = document.querySelector('section.films')
-  // let movieTitle = document.createElement('h2')
-  // movieTitle.innerText = movies[i].title
-  // articleTitle.appendChild(movieTitle)
+  const dest = document.querySelector('.film-grid')
+  let movieTitle = document.createElement('h2')
+  movieTitle.innerText = movie.title
+  dest.appendChild(movieTitle)
+  let movieOverview = document.createElement('p')
+  movieOverview.innerText = movie.overview
+  dest.appendChild(movieOverview)
+  let moviePoster = document.createElement('img')
+  const image = movie.poster_path
+  moviePoster.src = "https://image.tmdb.org/t/p/w500" + image
+  dest.appendChild(moviePoster)
 }
 
 getListFilms()
@@ -56,8 +63,6 @@ getListFilms()
 //   /* version 2*/
 //   const image = movies[i].poster_path
 //   moviePoster.src = "https://image.tmdb.org/t/p/w500" + image
-
-
 //   articleTitle.appendChild(moviePoster)
 
 //   /* afficheage du résumé dans "article" de la "section" */
