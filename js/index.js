@@ -35,7 +35,7 @@ function test() {
     inputFilm.forEach((button) => {
       button.addEventListener('click', (event) => {
         console.log(event.currentTarget.id);
-        document.location.href = `/details.html?id=${event.currentTarget.id}`
+        document.location.href = `./details.html?id=${event.currentTarget.id}`
       })
     })
   }
@@ -43,3 +43,4 @@ function test() {
 }
 
 getListFilms()
+
