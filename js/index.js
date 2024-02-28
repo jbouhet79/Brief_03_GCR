@@ -7,13 +7,13 @@ async function getListFilms() {
     }
   };
   
-  fetch('https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&primary_release_date.gte=2024-02-27&sort_by=popularity.desc', options)
+  fetch('https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=fr-FR&page=1&primary_release_date.gte=2024-02-27&sort_by=popularity.desc', options)
     .then(response => response.json())
     .then(response => response.results)
-    .then(movies => {
-      // console.log(movies);
-      return movies
-    })
+    // .then(movies => {
+    //   // console.log(movies);
+    //   return movies
+    // })
     .then(movies => movies.forEach(createFilmInDOM))
     .catch(err => console.error(err));
 }
