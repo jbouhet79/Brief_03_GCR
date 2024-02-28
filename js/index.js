@@ -52,7 +52,7 @@ function createFilmInDOM(movie) {
       button.addEventListener('click', (event) => {
         // const idFilm = btn.id
         console.log(event.currentTarget.id);
-        document.location.href = `/details.html?id=${event.currentTarget.id}`
+        document.location.href = `./details.html?id=${event.currentTarget.id}`
       })
     })
   }
