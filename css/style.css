@@ -133,7 +133,6 @@ h2 {
 .scroll-container {
   display: flex;
   overflow-x: auto;
-  /* max-height: 500px; */
   gap: 20px;
   padding: 10px 0;
 }
@@ -194,11 +193,6 @@ h2 {
   }
 }
 
-/* media-queries pour l'affichage du background */
-
-
-
-
 
 /* media-queires pour l'affichage du tableau de film en bsa de page */
 
@@ -230,6 +224,8 @@ h2 {
     grid-template-columns: 1fr;
     gap: 15px;
   }
+
+/* media-queries pour l'affichage du background */
 
   .accueil {
     height: 100%;
