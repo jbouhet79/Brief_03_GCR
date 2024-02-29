@@ -1,6 +1,11 @@
-    let movie_id = new URL(document.location.href).searchParams.get('id')
-    let array = []
-    let people = []
+let movie_id = new URL(document.location.href).searchParams.get('id')
+let array = []
+let people = []
+
+/**
+ * Affichage détaillé du film sélectionné dans le details.html
+ * @param {{title: string, overview: string, release_date:string, poster_path: string}} movie 
+ */
 
 function createFilmInDOM(movie){
     const titre = document.querySelector('h1');
@@ -14,7 +19,10 @@ function createFilmInDOM(movie){
     affiche.src = "https://image.tmdb.org/t/p/w500" + image
     
 }
-
+/**
+ * Création des films recommandés pour l'affichage dans le details.html
+ * @param {{poster_path:string}[]} array 
+ */
 function createPopulars(array){
     const recommend = document.querySelector('.scroll-container')
     for (i=0; i<array.length; i++) {
@@ -24,6 +32,12 @@ function createPopulars(array){
         recommend.appendChild(moviePoster)
     }
 }
+
+/**
+ * Création de la liste des 5 acteurs principaux du film
+ * @param {{name: string}[]} people 
+ */
+
 function createCredit(people){
     const star = document.querySelector('#distribution')
     for (i=0; i<people.slice(0, 5).length; i++){
@@ -40,12 +54,19 @@ const options = {
         Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1ZjViOWQ4NTQzODM2OGYxMzg2OTc3MzlkMDY3NmU5MCIsInN1YiI6IjY1ZGI2NDU5ODI2MWVlMDE4NWMyZmE3OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.EqaglO-GjtRSZOQomGgTqN6cuNF7LE1oecefis70Kds'
     }
 };
+
+/***
+ * Fetch pour l'appel API nécessaire pour récupérer les informations du film sélectionné
+ */
   
 fetch(`https://api.themoviedb.org/3/movie/${movie_id}?language=fr-FR`, options)
     .then(response => response.json())
     .then(movie => createFilmInDOM(movie))
     .catch(err => console.error(err))
 
+/***
+ * Fetch pour l'appel API nécessaire pour récupérer les films recommandés
+ */
     
 fetch(`https://api.themoviedb.org/3/movie/popular?language=fr-FR&page=1`, options)
     .then(response => response.json())
@@ -53,6 +74,10 @@ fetch(`https://api.themoviedb.org/3/movie/popular?language=fr-FR&page=1`, option
     .then(array => Array.from(array))
     .then(array => createPopulars(array))
     .catch(err => console.error(err))
+
+/***
+ * Fetch pour l'appel API nécessaire pour récupérer les informations des acteurs du film sélectionné
+ */
 
 fetch(`https://api.themoviedb.org/3/movie/${movie_id}/credits?language=fr-FR`, options)
     .then(response => response.json())
