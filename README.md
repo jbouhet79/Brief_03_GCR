@@ -23,7 +23,7 @@ Remarque : dans notre projet figure également un fichier `index_2nd_version_fet
 Nous avons commencé par créer un repository sur Github, puis on se l'ait partagé.
 
 Nous avons crée un project pour planifier les issues.
-Ainsi au cours de l'évolution, nous abons mis à jour l'avancement et la validation des issues successives.
+Ainsi au cours de l'évolution, nous avons mis à jour l'avancement et la validation des issues successives.
 
 Enfin, après avoir finalisé le projet, nous avons déployer la page: https://jbouhet79.github.io/Brief_03_GCR/
 
@@ -57,7 +57,6 @@ Ajout de "retour" à la page d'accueil à l'aide d'un lien href ligne 12 dans le
 
 L'affichage dynamique des films recommandés se fait via un slider déjà fourni.
 
-La fonction `createFilmInDOM` permet d'afficher.
 
 
 
