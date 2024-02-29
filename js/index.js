@@ -38,7 +38,6 @@ function createFilmInDOM(movie) {
  
 /**
  * Création du bouton intégré à l'image nécessaire pour sélectionné l'affichage du détail
- * @param {{title: string, poster_path: string}[]} movie 
  */
   
 function select() {
